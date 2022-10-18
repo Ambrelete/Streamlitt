@@ -1,0 +1,5 @@
+rivar — Aujourd’hui à 19:02
+streamlit
+tensorflow
+opencv-python
+opencv-contrib-python-headless
